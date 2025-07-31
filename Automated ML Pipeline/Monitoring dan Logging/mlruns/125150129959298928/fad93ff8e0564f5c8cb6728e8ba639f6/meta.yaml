@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/farhatfathi/Documents/laskarAI/MSML%20submission/Monitoring%20dan%20Logging/mlruns/125150129959298928/fad93ff8e0564f5c8cb6728e8ba639f6/artifacts
+end_time: 1749864463957
+entry_point_name: ''
+experiment_id: '125150129959298928'
+lifecycle_stage: active
+run_id: fad93ff8e0564f5c8cb6728e8ba639f6
+run_name: placid-ant-816
+run_uuid: fad93ff8e0564f5c8cb6728e8ba639f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749864456052
+status: 3
+tags: []
+user_id: farhatfathi

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/farhatfathi/Documents/laskarAI/MSML%20submission/Monitoring%20dan%20Logging/mlruns/665224575389892390/b89ae9363ae7403e8ea001149687e6a5/artifacts
+end_time: 1750044990443
+entry_point_name: ''
+experiment_id: '665224575389892390'
+lifecycle_stage: active
+run_id: b89ae9363ae7403e8ea001149687e6a5
+run_name: gifted-hog-172
+run_uuid: b89ae9363ae7403e8ea001149687e6a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750044978772
+status: 3
+tags: []
+user_id: farhatfathi

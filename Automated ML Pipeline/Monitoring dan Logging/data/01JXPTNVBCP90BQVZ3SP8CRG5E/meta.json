@@ -1,0 +1,17 @@
+{
+	"ulid": "01JXPTNVBCP90BQVZ3SP8CRG5E",
+	"minTime": 1749880803988,
+	"maxTime": 1749888000000,
+	"stats": {
+		"numSamples": 41072,
+		"numSeries": 68,
+		"numChunks": 309
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01JXPTNVBCP90BQVZ3SP8CRG5E"
+		]
+	},
+	"version": 1
+}

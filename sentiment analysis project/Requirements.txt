@@ -1,0 +1,12 @@
+pandas
+numpy==1.26.4
+scikit-learn
+matplotlib
+seaborn
+datetime
+nltk
+sastrawi
+wordcloud
+gensim
+scipy==1.13.1
+google-play-scraper

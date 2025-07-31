@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/farhatfathi/Documents/laskarAI/MSML%20submission/Monitoring%20dan%20Logging/mlruns/125150129959298928/825d793e5b2149c7b21c1567ba0d3571/artifacts
+end_time: 1749868655531
+entry_point_name: ''
+experiment_id: '125150129959298928'
+lifecycle_stage: active
+run_id: 825d793e5b2149c7b21c1567ba0d3571
+run_name: brawny-yak-987
+run_uuid: 825d793e5b2149c7b21c1567ba0d3571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749868648532
+status: 3
+tags: []
+user_id: farhatfathi
